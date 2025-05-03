@@ -3,6 +3,8 @@ date: '2'
 title: 'Cash Flow Dashboard'
 cover: './cashflow.png'
 github: 'www.googlecom'
+cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+
 external: ''
 tech:
   - Power BI

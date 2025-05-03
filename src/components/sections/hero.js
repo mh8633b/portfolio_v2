@@ -70,17 +70,17 @@ const Hero = () => {
         <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
         </a> */}
-        .
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=muneeb-ulhassan"
       target="_blank"
-      rel="noreferrer">
-      Check out my course!
+      rel="noreferrer"
+      >
+      Follow Me on LinkedIn
     </a>
   );
 
