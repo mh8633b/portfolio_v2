@@ -154,22 +154,22 @@ const Certifications = () => {
 
   const certificationsList = [
     {
-      title: 'Azure Data Engineer Associate',
+      title: 'Azure Data Fundamentals',
       issuer: 'Microsoft',
-      date: 'June 2023',
-      link: 'https://example.com/cert1',
+      date: 'October 2024',
+      link: 'https://learn.microsoft.com/en-us/users/muneebulhassan-3114/credentials/b8981710b4866883?ref=https%3A%2F%2Fwww.linkedin.com%2F',
     },
     {
-      title: 'Databricks Certified Associate Developer',
-      issuer: 'Databricks',
-      date: 'March 2023',
-      link: 'https://example.com/cert2',
+      title: 'Apache Iceberg',
+      issuer: 'Dremio',
+      date: 'February 2025',
+      link: 'https://mycourse.app/dBDpCmvvRgqm4AWdK',
     },
     {
-      title: 'Power BI Data Analyst Associate',
-      issuer: 'Microsoft',
-      date: 'January 2023',
-      link: 'https://example.com/cert3',
+      title: 'Advance SQL',
+      issuer: 'Hacker Rank',
+      date: 'January 2024',
+      link: 'https://www.hackerrank.com/certificates/b1fae266a084',
     },
     // Add more certifications as needed
   ];
