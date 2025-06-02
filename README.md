@@ -73,7 +73,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    npm run serve
    ```
 
-## 🎨 Color Reference
+## 🎨 Color Reference.
 
 | Color          | Hex                                                                |
 | -------------- | ------------------------------------------------------------------ |
