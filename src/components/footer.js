@@ -111,12 +111,13 @@ const Footer = () => {
           {githubInfo.stars && githubInfo.forks && (
             <div className="github-stats">
               <span>
-                <Icon name="Star" />
+                Github
+                {/* <Icon name="Star" />
                 <span>{githubInfo.stars.toLocaleString()}</span>
               </span>
               <span>
                 <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
+                <span>{githubInfo.forks.toLocaleString()}</span> */}
               </span>
             </div>
           )}
